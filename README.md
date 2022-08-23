@@ -1,7 +1,8 @@
 remova
 ======
 
-A set of Removable USB disk based virus remover
+A set of Removable USB disk based virus remover script
+(Only for Windows 7 I guess)
 
 Foreword
 Yeah I know there's already tons of removers tool out there that does a better job in removing and disinfecting your PC but why not have fun and do your own?
